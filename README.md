@@ -1,4 +1,4 @@
-# CS-A-Level-Coursework
+# CS A-Level Coursework
 
 The source code for my 2019-2020 Computer Science A-Level coursework.  
 This is a website called 'Game Bloc' which users can upload, download and play games on.
