@@ -12,3 +12,5 @@ The location of the `gameBloc` folder does not matter.
 
 To start the server run `gameBloc/serverScripts/start.sh`.  
 To stop the server run `gameBloc/serverScripts/stop.sh`.
+
+There is an example game called `testa` that is included in the source code
